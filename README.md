@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá mundo.
+#### Começando a programar.
+#### Tenho um breve conhecimento de JavaScrip, HTML e CSS. Estou a procura de novas oportunidades para aprender e evoluir na area.
+##### Formação: Programador de Sistemas do SENAC Campo Mourao - 2022/2023.
+
+![Meus Status](https://github-readme-stats.vercel.app/api?username=alissonreifur&show_icons=true&theme=tokyonight)
+![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonreifur&layout=compact&theme=tokyonight)
+
 
 <!--
 **AlissonReifur/AlissonReifur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
